@@ -1,0 +1,7 @@
+C:\Личный контент\Учеба\Управление проектами MSP\Exam\Exam\Exam\bin\Debug\Exam.exe.config
+C:\Личный контент\Учеба\Управление проектами MSP\Exam\Exam\Exam\bin\Debug\Exam.exe
+C:\Личный контент\Учеба\Управление проектами MSP\Exam\Exam\Exam\bin\Debug\Exam.pdb
+C:\Личный контент\Учеба\Управление проектами MSP\Exam\Exam\Exam\obj\Debug\Exam.csprojAssemblyReference.cache
+C:\Личный контент\Учеба\Управление проектами MSP\Exam\Exam\Exam\obj\Debug\Exam.csproj.CoreCompileInputs.cache
+C:\Личный контент\Учеба\Управление проектами MSP\Exam\Exam\Exam\obj\Debug\Exam.exe
+C:\Личный контент\Учеба\Управление проектами MSP\Exam\Exam\Exam\obj\Debug\Exam.pdb
